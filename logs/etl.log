@@ -1,0 +1,121 @@
+2026-05-09 19:54:59,250 - INFO - ETL completed successfully
+2026-05-09 19:55:09,721 - INFO - ETL completed successfully
+2026-05-09 19:57:38,806 - INFO - Excel loaded
+2026-05-09 19:57:39,055 - INFO - ETL completed successfully
+2026-05-09 20:42:17,276 - INFO - ETL started
+2026-05-09 20:42:17,637 - INFO - Excel loaded
+2026-05-09 20:42:17,815 - INFO - Handling data types
+2026-05-09 20:42:17,815 - INFO - Creating KPI columns
+2026-05-09 20:42:17,885 - INFO - Creating dimension tables
+2026-05-09 21:34:39,274 - INFO - ETL started
+2026-05-09 21:34:39,274 - INFO - Reading Excel file
+2026-05-09 21:34:39,620 - INFO - Excel loaded successfully: 1000 rows
+2026-05-09 21:34:39,620 - INFO - Cleaning column names
+2026-05-09 21:34:39,621 - INFO - Removing duplicates
+2026-05-09 21:34:39,622 - INFO - Handling data types
+2026-05-09 21:34:39,622 - INFO - Creating KPI columns
+2026-05-09 21:34:39,623 - INFO - Validating dataframe
+2026-05-09 21:34:39,623 - INFO - Validation completed
+2026-05-09 21:34:39,623 - INFO - Saving RAW table
+2026-05-09 21:34:39,751 - INFO - Saving employees
+2026-05-09 21:44:10,600 - INFO - ETL started
+2026-05-09 21:44:10,600 - INFO - Reading Excel file
+2026-05-09 21:44:10,923 - INFO - Excel loaded successfully: 1000 rows
+2026-05-09 21:44:10,924 - INFO - Cleaning column names
+2026-05-09 21:44:10,924 - INFO - Removing duplicates
+2026-05-09 21:44:10,926 - INFO - Handling data types
+2026-05-09 21:44:10,927 - INFO - Creating KPI columns
+2026-05-09 21:44:10,927 - INFO - Validating dataframe
+2026-05-09 21:44:10,927 - INFO - Validation completed
+2026-05-09 21:44:10,927 - INFO - Saving RAW table
+2026-05-09 21:44:11,174 - INFO - Saving employees
+2026-05-09 21:44:32,246 - INFO - ETL started
+2026-05-09 21:44:32,246 - INFO - Reading Excel file
+2026-05-09 21:44:32,575 - INFO - Excel loaded successfully: 1000 rows
+2026-05-09 21:44:32,575 - INFO - Cleaning column names
+2026-05-09 21:44:32,575 - INFO - Removing duplicates
+2026-05-09 21:44:32,577 - INFO - Handling data types
+2026-05-09 21:44:32,577 - INFO - Creating KPI columns
+2026-05-09 21:44:32,579 - INFO - Validating dataframe
+2026-05-09 21:44:32,579 - INFO - Validation completed
+2026-05-09 21:44:32,579 - INFO - Resetting ETL tables
+2026-05-09 21:44:32,633 - INFO - Saving RAW table
+2026-05-09 21:44:32,686 - INFO - Saving employees
+2026-05-09 21:44:32,699 - INFO - Saving devices
+2026-05-09 21:44:32,711 - INFO - Saving tariff
+2026-05-09 21:44:32,716 - INFO - Saving fact table
+2026-05-09 21:44:32,763 - INFO - ETL completed successfully
+2026-05-10 13:32:45,991 - INFO - ETL started
+2026-05-10 13:32:45,992 - INFO - Reading Excel file
+2026-05-10 13:32:46,520 - INFO - Excel loaded successfully: 1000 rows
+2026-05-10 13:32:46,520 - INFO - Cleaning column names
+2026-05-10 13:32:46,520 - INFO - Removing duplicates
+2026-05-10 13:32:46,537 - INFO - Handling data types
+2026-05-10 13:32:46,539 - INFO - Creating KPI columns
+2026-05-10 13:32:46,540 - INFO - Validating dataframe
+2026-05-10 13:32:46,540 - INFO - Validation completed
+2026-05-10 13:32:46,540 - INFO - Saving RAW table
+2026-05-10 13:35:32,808 - INFO - ETL started
+2026-05-10 13:35:32,808 - INFO - Reading Excel file
+2026-05-10 13:35:33,100 - INFO - Excel loaded successfully: 1000 rows
+2026-05-10 13:35:33,100 - INFO - Cleaning column names
+2026-05-10 13:35:33,100 - INFO - Removing duplicates
+2026-05-10 13:35:33,101 - INFO - Handling data types
+2026-05-10 13:35:33,102 - INFO - Creating KPI columns
+2026-05-10 13:35:33,102 - INFO - Validating dataframe
+2026-05-10 13:35:33,102 - INFO - Validation completed
+2026-05-10 13:35:33,102 - INFO - Saving RAW table
+2026-05-10 13:50:47,268 - INFO - ETL started
+2026-05-10 13:50:47,268 - INFO - Reading Excel file
+2026-05-10 13:50:47,555 - INFO - Excel loaded successfully: 1000 rows
+2026-05-10 13:50:47,555 - INFO - Cleaning column names
+2026-05-10 13:50:47,555 - INFO - Removing duplicates
+2026-05-10 13:50:47,557 - INFO - Handling data types
+2026-05-10 13:50:47,557 - INFO - Creating KPI columns
+2026-05-10 13:50:47,558 - INFO - Validating dataframe
+2026-05-10 13:50:47,558 - INFO - Validation completed
+2026-05-10 13:50:47,558 - INFO - Saving RAW table
+2026-05-10 13:50:47,711 - INFO - Saving employees
+2026-05-10 13:57:11,765 - INFO - ETL started
+2026-05-10 13:57:11,765 - INFO - Reading Excel file
+2026-05-10 13:57:12,059 - INFO - Excel loaded successfully: 1000 rows
+2026-05-10 13:57:12,059 - INFO - Cleaning column names
+2026-05-10 13:57:12,059 - INFO - Removing duplicates
+2026-05-10 13:57:12,060 - INFO - Handling data types
+2026-05-10 13:57:12,061 - INFO - Creating KPI columns
+2026-05-10 13:57:12,063 - INFO - Validating dataframe
+2026-05-10 13:57:12,063 - INFO - Validation completed
+2026-05-10 13:57:12,063 - INFO - Saving RAW table
+2026-05-10 13:57:12,196 - INFO - Saving employees
+2026-05-10 13:57:12,217 - INFO - Saving devices
+2026-05-10 13:57:12,235 - INFO - Saving tariff
+2026-05-10 13:57:12,244 - INFO - Saving fact table
+2026-05-10 14:14:11,804 - INFO - ETL started
+2026-05-10 14:14:11,804 - INFO - Reading Excel file
+2026-05-10 14:14:12,111 - INFO - Excel loaded successfully: 1000 rows
+2026-05-10 14:14:12,111 - INFO - Cleaning column names
+2026-05-10 14:14:12,111 - INFO - Removing duplicates
+2026-05-10 14:14:12,113 - INFO - Handling data types
+2026-05-10 14:14:12,114 - INFO - Creating KPI columns
+2026-05-10 14:14:12,115 - INFO - Validating dataframe
+2026-05-10 14:14:12,115 - INFO - Validation completed
+2026-05-10 14:14:12,115 - INFO - Saving RAW table
+2026-05-10 14:14:12,239 - INFO - Saving employees
+2026-05-10 14:14:12,263 - INFO - Saving devices
+2026-05-10 14:14:12,286 - INFO - Saving tariff
+2026-05-10 14:14:12,294 - INFO - Saving fact table
+2026-05-10 14:20:02,146 - INFO - ETL started
+2026-05-10 14:20:02,146 - INFO - Reading Excel file
+2026-05-10 14:20:02,462 - INFO - Excel loaded successfully: 1000 rows
+2026-05-10 14:20:02,462 - INFO - Cleaning column names
+2026-05-10 14:20:02,462 - INFO - Removing duplicates
+2026-05-10 14:20:02,464 - INFO - Handling data types
+2026-05-10 14:20:02,465 - INFO - Creating KPI columns
+2026-05-10 14:20:02,465 - INFO - Validating dataframe
+2026-05-10 14:20:02,467 - INFO - Validation completed
+2026-05-10 14:20:02,467 - INFO - Saving RAW table
+2026-05-10 14:20:02,713 - INFO - Saving employees
+2026-05-10 14:20:02,735 - INFO - Saving devices
+2026-05-10 14:20:02,757 - INFO - Saving tariff
+2026-05-10 14:20:02,765 - INFO - Saving fact table
+2026-05-10 14:20:02,816 - INFO - ETL completed successfully
